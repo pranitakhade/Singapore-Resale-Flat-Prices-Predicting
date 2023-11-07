@@ -21,7 +21,7 @@ The project will involve the following tasks:
 6. Deployment on Render: Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
 7. Testing and Validation: Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
 
-### Data Source : [Data Set](https://beta.data.gov.sg/collections/189/view)
+### Data Source : (https://beta.data.gov.sg/collections/189/view)
 
 ### Results: 
 The project will benefit both potential buyers and sellers in the Singapore housing market. Buyers can use the application to estimate resale prices and make informed decisions, while sellers can get an idea of their flat's potential market value. Additionally, the project demonstrates the practical application of machine learning in real estate and web development.
